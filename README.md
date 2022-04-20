@@ -1,8 +1,8 @@
 # Penugasan 2 
 
-<h3>Pada tugas 2 ini adalah membuat project aplikasi flutter dengan list view.</h3>
+<h4>Pada tugas 2 ini adalah membuat project aplikasi flutter dengan list view.</h4>
 
-<h2>Bukti Screenshoot</h2>
+## Bukti Screenshot
 
 | Main Page  | Full Page |
 | ----- | ----- |
