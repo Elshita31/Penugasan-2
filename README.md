@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-| Main Page  | Full Page |
-| ----- | ----- |
-| ![main_page](https://github.com/Elshita31/RestApiVolley/blob/master/3.jpg)   | ![full_page](https://github.com/Elshita31/RestApiVolley/blob/master/2.gif)  |
+<h2>Screenshoot</h2>
+<img src="elshitaa.jpg" height="600px" width="300px">
+<img src="elshitaaa.jpg" height="300px" width="600px">
 
 ## Getting Started
 
