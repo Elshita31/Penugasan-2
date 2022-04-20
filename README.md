@@ -3,8 +3,8 @@
 A new Flutter project.
 
 <h2>Screenshoot</h2>
-<img src="elshitaa.jpg" height="600px" width="300px">
-<img src="elshitaaa.jpg" height="300px" width="600px">
+<img src="elshitaaa.JPG" height="600px" width="300px">
+<img src="elshitaaaa.JPG" height="300px" width="600px">
 
 ## Getting Started
 
