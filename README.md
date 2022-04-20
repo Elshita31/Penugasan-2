@@ -3,11 +3,10 @@
 <h3>Pada tugas 2 ini adalah membuat project aplikasi flutter dengan list view.</h3>
 
 <h2>Screenshoot</h2>
+
 | Main Page  | Full Page |
 | ----- | ----- |
-| ![main_page](https://github.com/Elshita31/RestApiVolley/blob/master/3.jpg)   | ![full_page](https://github.com/Elshita31/RestApiVolley/blob/master/2.gif)  |
-<img src="elshitaaa.JPG" height="500px" width="300px">
-<img src="elshitaaaa.JPG" height="300px" width="600px">
+| ![main_page](https://github.com/Elshita31/Penugasan-2/blob/master/dok-2.png)  | ![full_page](https://github.com/Elshita31/Penugasan-2/blob/master/elshitaaaa.JPG) | 
 
 ## Getting Started
 
