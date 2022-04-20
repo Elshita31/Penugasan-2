@@ -4,7 +4,7 @@
 
 ## Bukti Screenshot
 
-| Main Page  | Full Page |
+| Aplikasi  | Full Page |
 | ----- | ----- |
 | ![main_page](https://github.com/Elshita31/Penugasan-2/blob/master/dok-2.png)  | ![full_page](https://github.com/Elshita31/Penugasan-2/blob/master/elshitaaaa.JPG) | 
 
