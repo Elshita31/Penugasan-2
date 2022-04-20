@@ -2,7 +2,7 @@
 
 <h3>Pada tugas 2 ini adalah membuat project aplikasi flutter dengan list view.</h3>
 
-<h2>Screenshoot</h2>
+<h2>Bukti Screenshoot</h2>
 
 | Main Page  | Full Page |
 | ----- | ----- |
