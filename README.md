@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+| Main Page  | Full Page |
+| ----- | ----- |
+| ![main_page](https://github.com/Elshita31/RestApiVolley/blob/master/3.jpg)   | ![full_page](https://github.com/Elshita31/RestApiVolley/blob/master/2.gif)  |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
